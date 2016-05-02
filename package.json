@@ -1,0 +1,28 @@
+{
+  "name": "ladchat-online",
+  "version": "1.0.0",
+  "description": "a chat app for the lads.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george-of-croton/LADchat-Online.git"
+  },
+  "keywords": [
+    "chat",
+    "lad",
+    "lads",
+    "birds"
+  ],
+  "author": "george-of-croton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george-of-croton/LADchat-Online/issues"
+  },
+  "homepage": "https://github.com/george-of-croton/LADchat-Online#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
